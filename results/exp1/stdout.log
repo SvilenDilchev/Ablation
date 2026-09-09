@@ -1,0 +1,146 @@
+=== exp1: 22 TPC-H queries x {BOSS, DuckDB, MonetDB}, google benchmark ===
+DuckDB-1T DuckDB v0.8.1
+DuckDB-MT DuckDB v0.8.1
+MonetDB-1T MonetDB/e 11.47.11 (Jun2023_SP2)
+MonetDB-MT MonetDB/e 11.47.11 (Jun2023_SP2)
+---------------------------------------------------------
+Benchmark               Time             CPU   Iterations
+---------------------------------------------------------
+[0;32mBOSS/Q1        [m[0;33m       206 ms          206 ms   [m[0;36m         3[m
+[m[0;32mBOSS/Q2        [m[0;33m      32.5 ms         32.5 ms   [m[0;36m        21[m
+[m[0;32mBOSS/Q3        [m[0;33m       170 ms          170 ms   [m[0;36m         4[m
+[m[0;32mBOSS/Q4        [m[0;33m       323 ms          323 ms   [m[0;36m         2[m
+[m[0;32mBOSS/Q5        [m[0;33m       309 ms          309 ms   [m[0;36m         2[m
+[m[0;32mBOSS/Q6        [m[0;33m      17.5 ms         17.5 ms   [m[0;36m        40[m
+[m[0;32mBOSS/Q7        [m[0;33m       675 ms          675 ms   [m[0;36m         1[m
+[m[0;32mBOSS/Q8        [m[0;33m      89.7 ms         89.7 ms   [m[0;36m         8[m
+[m[0;32mBOSS/Q9        [m[0;33m       239 ms          239 ms   [m[0;36m         3[m
+[m[0;32mBOSS/Q10       [m[0;33m       219 ms          219 ms   [m[0;36m         3[m
+[m[0;32mBOSS/Q11       [m[0;33m      16.4 ms         16.4 ms   [m[0;36m        43[m
+[m[0;32mBOSS/Q12       [m[0;33m      75.7 ms         75.7 ms   [m[0;36m         9[m
+[m[0;32mBOSS/Q13       [m[0;33m       625 ms          625 ms   [m[0;36m         1[m
+[m[0;32mBOSS/Q14       [m[0;33m      43.5 ms         43.5 ms   [m[0;36m        16[m
+[m[0;32mBOSS/Q15       [m[0;33m      89.4 ms         89.4 ms   [m[0;36m         8[m
+[m[0;32mBOSS/Q16       [m[0;33m      55.6 ms         55.6 ms   [m[0;36m        13[m
+[m[0;32mBOSS/Q17       [m[0;33m       114 ms          114 ms   [m[0;36m         6[m
+[m[0;32mBOSS/Q18       [m[0;33m       385 ms          385 ms   [m[0;36m         2[m
+[m[0;32mBOSS/Q19       [m[0;33m       202 ms          202 ms   [m[0;36m         3[m
+[m[0;32mBOSS/Q20       [m[0;33m       197 ms          197 ms   [m[0;36m         4[m
+[m[0;32mBOSS/Q21       [m[0;33m      1370 ms         1370 ms   [m[0;36m         1[m
+[m[0;32mBOSS/Q22       [m[0;33m      27.3 ms         27.3 ms   [m[0;36m        26[m
+[m[0;32mBOSS/Q13R      [m[0;33m       606 ms          606 ms   [m[0;36m         1[m
+[m[0;32mDuckDB-1T/Q1   [m[0;33m       223 ms          223 ms   [m[0;36m         3[m
+[m[0;32mDuckDB-1T/Q2   [m[0;33m       126 ms          126 ms   [m[0;36m         6[m
+[m[0;32mDuckDB-1T/Q3   [m[0;33m      61.5 ms         61.5 ms   [m[0;36m        12[m
+[m[0;32mDuckDB-1T/Q4   [m[0;33m       223 ms          223 ms   [m[0;36m         3[m
+[m[0;32mDuckDB-1T/Q5   [m[0;33m       257 ms          257 ms   [m[0;36m         3[m
+[m[0;32mDuckDB-1T/Q6   [m[0;33m      28.9 ms         28.9 ms   [m[0;36m        25[m
+[m[0;32mDuckDB-1T/Q7   [m[0;33m       544 ms          544 ms   [m[0;36m         1[m
+[m[0;32mDuckDB-1T/Q8   [m[0;33m      36.9 ms         36.9 ms   [m[0;36m        18[m
+[m[0;32mDuckDB-1T/Q9   [m[0;33m       260 ms          260 ms   [m[0;36m         3[m
+[m[0;32mDuckDB-1T/Q10  [m[0;33m       606 ms          605 ms   [m[0;36m         1[m
+[m[0;32mDuckDB-1T/Q11  [m[0;33m      50.1 ms         50.1 ms   [m[0;36m        12[m
+[m[0;32mDuckDB-1T/Q12  [m[0;33m       114 ms          114 ms   [m[0;36m         6[m
+[m[0;32mDuckDB-1T/Q13  [m[0;33m       122 ms          122 ms   [m[0;36m         6[m
+[m[0;32mDuckDB-1T/Q14  [m[0;33m      32.3 ms         32.3 ms   [m[0;36m        22[m
+[m[0;32mDuckDB-1T/Q15  [m[0;33m      56.6 ms         56.6 ms   [m[0;36m        13[m
+[m[0;32mDuckDB-1T/Q16  [m[0;33m      30.8 ms         30.8 ms   [m[0;36m        23[m
+[m[0;32mDuckDB-1T/Q17  [m[0;33m       125 ms          125 ms   [m[0;36m         6[m
+[m[0;32mDuckDB-1T/Q18  [m[0;33m       390 ms          390 ms   [m[0;36m         2[m
+[m[0;32mDuckDB-1T/Q19  [m[0;33m       175 ms          175 ms   [m[0;36m         4[m
+[m[0;32mDuckDB-1T/Q20  [m[0;33m       126 ms          126 ms   [m[0;36m         6[m
+[m[0;32mDuckDB-1T/Q21  [m[0;33m       538 ms          538 ms   [m[0;36m         1[m
+[m[0;32mDuckDB-1T/Q22  [m[0;33m      65.0 ms         65.0 ms   [m[0;36m        11[m
+[m[0;32mDuckDB-MT/Q1   [m[0;33m      33.4 ms         17.9 ms   [m[0;36m        40[m
+[m[0;32mDuckDB-MT/Q2   [m[0;33m       461 ms          460 ms   [m[0;36m         4[m
+[m[0;32mDuckDB-MT/Q3   [m[0;33m      21.1 ms         20.0 ms   [m[0;36m        33[m
+[m[0;32mDuckDB-MT/Q4   [m[0;33m      45.2 ms         35.0 ms   [m[0;36m        21[m
+[m[0;32mDuckDB-MT/Q5   [m[0;33m       323 ms          321 ms   [m[0;36m         2[m
+[m[0;32mDuckDB-MT/Q6   [m[0;33m      4.64 ms         3.10 ms   [m[0;36m       232[m
+[m[0;32mDuckDB-MT/Q7   [m[0;33m       950 ms          945 ms   [m[0;36m         2[m
+[m[0;32mDuckDB-MT/Q8   [m[0;33m      18.3 ms         17.4 ms   [m[0;36m        37[m
+[m[0;32mDuckDB-MT/Q9   [m[0;33m      88.5 ms         86.3 ms   [m[0;36m         8[m
+[m[0;32mDuckDB-MT/Q10  [m[0;33m      1278 ms         1267 ms   [m[0;36m         1[m
+[m[0;32mDuckDB-MT/Q11  [m[0;33m       337 ms          299 ms   [m[0;36m         5[m
+[m[0;32mDuckDB-MT/Q12  [m[0;33m      21.2 ms         17.5 ms   [m[0;36m        45[m
+[m[0;32mDuckDB-MT/Q13  [m[0;33m      47.7 ms         46.2 ms   [m[0;36m        15[m
+[m[0;32mDuckDB-MT/Q14  [m[0;33m      12.0 ms         9.81 ms   [m[0;36m        77[m
+[m[0;32mDuckDB-MT/Q15  [m[0;33m      15.1 ms         11.5 ms   [m[0;36m        62[m
+[m[0;32mDuckDB-MT/Q16  [m[0;33m      84.7 ms         82.9 ms   [m[0;36m        10[m
+[m[0;32mDuckDB-MT/Q17  [m[0;33m      89.9 ms         57.7 ms   [m[0;36m        10[m
+[m[0;32mDuckDB-MT/Q18  [m[0;33m      87.8 ms         52.4 ms   [m[0;36m        10[m
+[m[0;32mDuckDB-MT/Q19  [m[0;33m      31.5 ms         25.6 ms   [m[0;36m        31[m
+[m[0;32mDuckDB-MT/Q20  [m[0;33m      76.8 ms         69.1 ms   [m[0;36m         9[m
+[m[0;32mDuckDB-MT/Q21  [m[0;33m       113 ms         80.0 ms   [m[0;36m         9[m
+[m[0;32mDuckDB-MT/Q22  [m[0;33m      22.4 ms         21.3 ms   [m[0;36m        33[m
+[m[0;32mMonetDB-1T/Q1  [m[0;33m       485 ms          485 ms   [m[0;36m         2[m
+[m[0;32mMonetDB-1T/Q2  [m[0;33m      12.5 ms         12.5 ms   [m[0;36m        56[m
+[m[0;32mMonetDB-1T/Q3  [m[0;33m      42.1 ms         42.1 ms   [m[0;36m        17[m
+[m[0;32mMonetDB-1T/Q4  [m[0;33m      52.8 ms         52.8 ms   [m[0;36m        13[m
+[m[0;32mMonetDB-1T/Q5  [m[0;33m      53.5 ms         53.5 ms   [m[0;36m        13[m
+[m[0;32mMonetDB-1T/Q6  [m[0;33m      19.8 ms         19.8 ms   [m[0;36m        35[m
+[m[0;32mMonetDB-1T/Q7  [m[0;33m      73.2 ms         73.2 ms   [m[0;36m         9[m
+[m[0;32mMonetDB-1T/Q8  [m[0;33m      67.8 ms         67.8 ms   [m[0;36m        10[m
+[m[0;32mMonetDB-1T/Q9  [m[0;33m       108 ms          108 ms   [m[0;36m         7[m
+[m[0;32mMonetDB-1T/Q10 [m[0;33m      34.3 ms         34.3 ms   [m[0;36m        20[m
+[m[0;32mMonetDB-1T/Q11 [m[0;33m      20.8 ms         20.8 ms   [m[0;36m        34[m
+[m[0;32mMonetDB-1T/Q12 [m[0;33m      45.2 ms         45.2 ms   [m[0;36m        15[m
+[m[0;32mMonetDB-1T/Q13 [m[0;33m      61.8 ms         61.8 ms   [m[0;36m        11[m
+[m[0;32mMonetDB-1T/Q14 [m[0;33m      22.7 ms         22.7 ms   [m[0;36m        31[m
+[m[0;32mMonetDB-1T/Q15 [m[0;33m      18.3 ms         18.3 ms   [m[0;36m        37[m
+[m[0;32mMonetDB-1T/Q16 [m[0;33m      20.2 ms         20.2 ms   [m[0;36m        35[m
+[m[0;32mMonetDB-1T/Q17 [m[0;33m       166 ms          166 ms   [m[0;36m         4[m
+[m[0;32mMonetDB-1T/Q18 [m[0;33m      48.7 ms         48.7 ms   [m[0;36m        14[m
+[m[0;32mMonetDB-1T/Q19 [m[0;33m      27.8 ms         27.8 ms   [m[0;36m        25[m
+[m[0;32mMonetDB-1T/Q20 [m[0;33m      39.1 ms         39.0 ms   [m[0;36m        18[m
+[m[0;32mMonetDB-1T/Q21 [m[0;33m       172 ms          172 ms   [m[0;36m         4[m
+[m[0;32mMonetDB-1T/Q22 [m[0;33m      35.7 ms         35.7 ms   [m[0;36m        20[m
+[m[0;32mMonetDB-MT/Q1  [m[0;33m      60.5 ms         10.4 ms   [m[0;36m        68[m
+[m[0;32mMonetDB-MT/Q2  [m[0;33m      13.4 ms         5.13 ms   [m[0;36m       173[m
+[m[0;32mMonetDB-MT/Q3  [m[0;33m      19.2 ms         2.90 ms   [m[0;36m       243[m
+[m[0;32mMonetDB-MT/Q4  [m[0;33m      21.6 ms         1.52 ms   [m[0;36m       469[m
+[m[0;32mMonetDB-MT/Q5  [m[0;33m      21.8 ms         3.55 ms   [m[0;36m       195[m
+[m[0;32mMonetDB-MT/Q6  [m[0;33m      4.54 ms         2.70 ms   [m[0;36m       238[m
+[m[0;32mMonetDB-MT/Q7  [m[0;33m      15.3 ms         3.20 ms   [m[0;36m       220[m
+[m[0;32mMonetDB-MT/Q8  [m[0;33m      23.7 ms         3.64 ms   [m[0;36m       186[m
+[m[0;32mMonetDB-MT/Q9  [m[0;33m      16.0 ms         2.87 ms   [m[0;36m       239[m
+[m[0;32mMonetDB-MT/Q10 [m[0;33m      21.7 ms         4.41 ms   [m[0;36m       169[m
+[m[0;32mMonetDB-MT/Q11 [m[0;33m      9.93 ms         2.26 ms   [m[0;36m       233[m
+[m[0;32mMonetDB-MT/Q12 [m[0;33m      10.2 ms         2.86 ms   [m[0;36m       248[m
+[m[0;32mMonetDB-MT/Q13 [m[0;33m      50.0 ms         1.26 ms   [m[0;36m       100[m
+[m[0;32mMonetDB-MT/Q14 [m[0;33m      7.33 ms         3.14 ms   [m[0;36m       263[m
+[m[0;32mMonetDB-MT/Q15 [m[0;33m      10.9 ms         3.81 ms   [m[0;36m       174[m
+[m[0;32mMonetDB-MT/Q16 [m[0;33m      56.8 ms         4.31 ms   [m[0;36m       100[m
+[m[0;32mMonetDB-MT/Q17 [m[0;33m      21.2 ms         2.00 ms   [m[0;36m       345[m
+[m[0;32mMonetDB-MT/Q18 [m[0;33m      25.5 ms         2.38 ms   [m[0;36m       296[m
+[m[0;32mMonetDB-MT/Q19 [m[0;33m      8.16 ms         3.45 ms   [m[0;36m       191[m
+[m[0;32mMonetDB-MT/Q20 [m[0;33m      26.3 ms         7.61 ms   [m[0;36m       100[m
+[m[0;32mMonetDB-MT/Q21 [m[0;33m      37.2 ms         10.6 ms   [m[0;36m        65[m
+[m[0;32mMonetDB-MT/Q22 [m[0;33m      25.5 ms         1.58 ms   [m[0;36m       100[m
+[m
+mean seconds per iteration (google benchmark)
+query         BOSS   DuckDB-1T   DuckDB-MT  MonetDB-1T  MonetDB-MT
+Q1           0.206       0.223       0.033       0.485       0.060
+Q2           0.033       0.126       0.461       0.013       0.013
+Q3           0.170       0.061       0.021       0.042       0.019
+Q4           0.323       0.223       0.045       0.053       0.022
+Q5           0.309       0.257       0.323       0.053       0.022
+Q6           0.017       0.029       0.005       0.020       0.005
+Q7           0.675       0.544       0.950       0.073       0.015
+Q8           0.090       0.037       0.018       0.068       0.024
+Q9           0.239       0.260       0.088       0.108       0.016
+Q10          0.219       0.606       1.278       0.034       0.022
+Q11          0.016       0.050       0.337       0.021       0.010
+Q12          0.076       0.114       0.021       0.045       0.010
+Q13          0.625       0.122       0.048       0.062       0.050
+Q14          0.044       0.032       0.012       0.023       0.007
+Q15          0.089       0.057       0.015       0.018       0.011
+Q16          0.056       0.031       0.085       0.020       0.057
+Q17          0.114       0.125       0.090       0.166       0.021
+Q18          0.385       0.390       0.088       0.049       0.025
+Q19          0.202       0.175       0.031       0.028       0.008
+Q20          0.197       0.126       0.077       0.039       0.026
+Q21          1.370       0.538       0.113       0.172       0.037
+Q22          0.027       0.065       0.022       0.036       0.025
+Q13R         0.606        FAIL        FAIL        FAIL        FAIL
+ALL          5.481       4.192       4.162       1.627       0.507

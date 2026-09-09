@@ -1,0 +1,18 @@
+=== exp0: engine constants ===
+
+derived constants
+rebox int64    0.002 ns/row (engine)   0.059 ns/row (wall, incl. project)
+unbox int64    0.004 ns/row (engine)   0.044 ns/row (wall, incl. slice)
+rebox string   15.998 ns/row (engine)   16.101 ns/row (wall, incl. project)
+unbox string   5.433 ns/row (engine)   5.470 ns/row (wall, incl. slice)
+filter  (50% selectivity)      1.01 ns/row
+filter  (wide row, 5 cols)     11.38 ns/row
+groupby (4 keys)               1.87 ns/row
+groupby (all-distinct keys)    46.44 ns/row
+groupby (2 distinct int keys)  53.73 ns/row
+groupby (distinct string key)  82.80 ns/row
+join    (1:1)                  76.02 ns/row
+rewriter scan per candidate    0.24 us (fitted over 0-400 views)
+pipeline fixed cost            45.4 us per query
+cache hit on a 1-row view      66.7 us (protocol cost, 21.3 us of it view machinery)
+cache hit on 1M int64 rows     0.11 ms wall

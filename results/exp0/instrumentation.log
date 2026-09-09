@@ -1,0 +1,468 @@
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 2.083e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 7.49e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 3.42e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 2.1e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 2.18e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.65e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.59e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.95e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.49e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.6e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.57e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.51e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.63e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.42e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.93e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.97e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.37e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.99e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 2.11e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.99e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.59e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.69e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.56e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.89e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.63e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.65e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.5e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.73e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.51e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.52e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.68e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.85e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.66e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.48e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.57e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.36e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 4.23e-07s
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols) for V: 4.08e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 2.38e-07s
+[VE] ADMIT V size=8.000000
+[VE] PASS-END occupancy=8.000000/1000000000.000000 cached=1
+[VE] HIT  V size=8.000000 occupancy=8.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 5.031e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 4.58e-07s
+[VE] ADMIT V size=8.000000
+[VE] PASS-END occupancy=8.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols) for V: 4.31e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.9e-07s
+[VE] ADMIT V size=8.000000
+[VE] PASS-END occupancy=8.000000/1000000000.000000 cached=1
+[VE] HIT  V size=8.000000 occupancy=8.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 1.502e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 2.97e-07s
+[VE] ADMIT V size=8.000000
+[VE] PASS-END occupancy=8.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols) for V: 3.32e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.61e-07s
+[VE] ADMIT V size=8.000000
+[VE] PASS-END occupancy=8.000000/1000000000.000000 cached=1
+[VE] HIT  V size=8.000000 occupancy=8.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 1.174e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 2.43e-07s
+[VE] ADMIT V size=8.000000
+[VE] PASS-END occupancy=8.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols) for V: 2.87e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.72e-07s
+[VE] ADMIT V size=8.000000
+[VE] PASS-END occupancy=8.000000/1000000000.000000 cached=1
+[VE] HIT  V size=8.000000 occupancy=8.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 9.8e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 2.91e-07s
+[VE] ADMIT V size=8.000000
+[VE] PASS-END occupancy=8.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols) for V: 3.61e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.7e-07s
+[VE] ADMIT V size=8.000000
+[VE] PASS-END occupancy=8.000000/1000000000.000000 cached=1
+[VE] HIT  V size=8.000000 occupancy=8.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 1.032e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 2.31e-07s
+[VE] ADMIT V size=8.000000
+[VE] PASS-END occupancy=8.000000/1000000000.000000 cached=1
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols): 2.259e-06s
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols) for V: 4.877e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 2.89e-07s
+[VE] ADMIT V size=8000000.000000
+[VE] PASS-END occupancy=8000000.000000/1000000000.000000 cached=1
+[VE] HIT  V size=8000000.000000 occupancy=8000000.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 7.398e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 4.85e-07s
+[VE] ADMIT V size=8000000.000000
+[VE] PASS-END occupancy=8000000.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols) for V: 3.081e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 2.58e-07s
+[VE] ADMIT V size=8000000.000000
+[VE] PASS-END occupancy=8000000.000000/1000000000.000000 cached=1
+[VE] HIT  V size=8000000.000000 occupancy=8000000.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 5.429e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 3.56e-07s
+[VE] ADMIT V size=8000000.000000
+[VE] PASS-END occupancy=8000000.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols) for V: 2.822e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.95e-07s
+[VE] ADMIT V size=8000000.000000
+[VE] PASS-END occupancy=8000000.000000/1000000000.000000 cached=1
+[VE] HIT  V size=8000000.000000 occupancy=8000000.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 5.698e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 4.08e-07s
+[VE] ADMIT V size=8000000.000000
+[VE] PASS-END occupancy=8000000.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols) for V: 3.245e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 2.34e-07s
+[VE] ADMIT V size=8000000.000000
+[VE] PASS-END occupancy=8000000.000000/1000000000.000000 cached=1
+[VE] HIT  V size=8000000.000000 occupancy=8000000.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 5.649e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 3.11e-07s
+[VE] ADMIT V size=8000000.000000
+[VE] PASS-END occupancy=8000000.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols) for V: 2.919e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.98e-07s
+[VE] ADMIT V size=8000000.000000
+[VE] PASS-END occupancy=8000000.000000/1000000000.000000 cached=1
+[VE] HIT  V size=8000000.000000 occupancy=8000000.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 5.553e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 3.17e-07s
+[VE] ADMIT V size=8000000.000000
+[VE] PASS-END occupancy=8000000.000000/1000000000.000000 cached=1
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols): 2.36e-06s
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols) for V: 1.2195e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 3.17e-07s
+[VE] ADMIT V size=32000000.000000
+[VE] PASS-END occupancy=32000000.000000/1000000000.000000 cached=1
+[VE] HIT  V size=32000000.000000 occupancy=32000000.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 1.9349e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 5.01e-07s
+[VE] ADMIT V size=32000000.000000
+[VE] PASS-END occupancy=32000000.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols) for V: 7.739e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 3.03e-07s
+[VE] ADMIT V size=32000000.000000
+[VE] PASS-END occupancy=32000000.000000/1000000000.000000 cached=1
+[VE] HIT  V size=32000000.000000 occupancy=32000000.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 1.698e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 4e-07s
+[VE] ADMIT V size=32000000.000000
+[VE] PASS-END occupancy=32000000.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols) for V: 8.049e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 2.83e-07s
+[VE] ADMIT V size=32000000.000000
+[VE] PASS-END occupancy=32000000.000000/1000000000.000000 cached=1
+[VE] HIT  V size=32000000.000000 occupancy=32000000.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 1.7065e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 3.97e-07s
+[VE] ADMIT V size=32000000.000000
+[VE] PASS-END occupancy=32000000.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols) for V: 7.636e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 3.31e-07s
+[VE] ADMIT V size=32000000.000000
+[VE] PASS-END occupancy=32000000.000000/1000000000.000000 cached=1
+[VE] HIT  V size=32000000.000000 occupancy=32000000.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 1.6975e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 4.01e-07s
+[VE] ADMIT V size=32000000.000000
+[VE] PASS-END occupancy=32000000.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols) for V: 7.874e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 2.22e-07s
+[VE] ADMIT V size=32000000.000000
+[VE] PASS-END occupancy=32000000.000000/1000000000.000000 cached=1
+[VE] HIT  V size=32000000.000000 occupancy=32000000.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 1.6849e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 3.93e-07s
+[VE] ADMIT V size=32000000.000000
+[VE] PASS-END occupancy=32000000.000000/1000000000.000000 cached=1
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.203e-06s
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols) for V: 5.81e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 2.09e-07s
+[VE] ADMIT V size=16.000000
+[VE] PASS-END occupancy=16.000000/1000000000.000000 cached=1
+[VE] HIT  V size=16.000000 occupancy=16.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 3.455e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 3.16e-07s
+[VE] ADMIT V size=16.000000
+[VE] PASS-END occupancy=16.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols) for V: 3.42e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.8e-07s
+[VE] ADMIT V size=16.000000
+[VE] PASS-END occupancy=16.000000/1000000000.000000 cached=1
+[VE] HIT  V size=16.000000 occupancy=16.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 2.141e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 2.83e-07s
+[VE] ADMIT V size=16.000000
+[VE] PASS-END occupancy=16.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols) for V: 2.81e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.68e-07s
+[VE] ADMIT V size=16.000000
+[VE] PASS-END occupancy=16.000000/1000000000.000000 cached=1
+[VE] HIT  V size=16.000000 occupancy=16.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 2.28e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 2.4e-07s
+[VE] ADMIT V size=16.000000
+[VE] PASS-END occupancy=16.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols) for V: 2.78e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.52e-07s
+[VE] ADMIT V size=16.000000
+[VE] PASS-END occupancy=16.000000/1000000000.000000 cached=1
+[VE] HIT  V size=16.000000 occupancy=16.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 1.839e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 2.16e-07s
+[VE] ADMIT V size=16.000000
+[VE] PASS-END occupancy=16.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols) for V: 2.84e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.48e-07s
+[VE] ADMIT V size=16.000000
+[VE] PASS-END occupancy=16.000000/1000000000.000000 cached=1
+[VE] HIT  V size=16.000000 occupancy=16.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 1.875e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.79e-07s
+[VE] ADMIT V size=16.000000
+[VE] PASS-END occupancy=16.000000/1000000000.000000 cached=1
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols): 0.0278092s
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols) for V: 0.022058s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 9.75e-07s
+[VE] ADMIT V size=16000000.000000
+[VE] PASS-END occupancy=16000000.000000/1000000000.000000 cached=1
+[VE] HIT  V size=16000000.000000 occupancy=16000000.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 0.00736425s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.434e-06s
+[VE] ADMIT V size=16000000.000000
+[VE] PASS-END occupancy=16000000.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols) for V: 0.0160668s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 6.14e-07s
+[VE] ADMIT V size=16000000.000000
+[VE] PASS-END occupancy=16000000.000000/1000000000.000000 cached=1
+[VE] HIT  V size=16000000.000000 occupancy=16000000.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 0.00561894s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.467e-06s
+[VE] ADMIT V size=16000000.000000
+[VE] PASS-END occupancy=16000000.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols) for V: 0.0160584s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 5.13e-07s
+[VE] ADMIT V size=16000000.000000
+[VE] PASS-END occupancy=16000000.000000/1000000000.000000 cached=1
+[VE] HIT  V size=16000000.000000 occupancy=16000000.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 0.00578756s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.764e-06s
+[VE] ADMIT V size=16000000.000000
+[VE] PASS-END occupancy=16000000.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols) for V: 0.0159176s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 5.82e-07s
+[VE] ADMIT V size=16000000.000000
+[VE] PASS-END occupancy=16000000.000000/1000000000.000000 cached=1
+[VE] HIT  V size=16000000.000000 occupancy=16000000.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 0.00568637s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.04e-06s
+[VE] ADMIT V size=16000000.000000
+[VE] PASS-END occupancy=16000000.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols) for V: 0.0159881s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 7.42e-07s
+[VE] ADMIT V size=16000000.000000
+[VE] PASS-END occupancy=16000000.000000/1000000000.000000 cached=1
+[VE] HIT  V size=16000000.000000 occupancy=16000000.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 0.0056613s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.213e-06s
+[VE] ADMIT V size=16000000.000000
+[VE] PASS-END occupancy=16000000.000000/1000000000.000000 cached=1
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols): 0.110601s
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols) for V: 0.0760973s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.052e-06s
+[VE] ADMIT V size=64000000.000000
+[VE] PASS-END occupancy=64000000.000000/1000000000.000000 cached=1
+[VE] HIT  V size=64000000.000000 occupancy=64000000.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 0.0242517s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.385e-06s
+[VE] ADMIT V size=64000000.000000
+[VE] PASS-END occupancy=64000000.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols) for V: 0.0649902s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.105e-06s
+[VE] ADMIT V size=64000000.000000
+[VE] PASS-END occupancy=64000000.000000/1000000000.000000 cached=1
+[VE] HIT  V size=64000000.000000 occupancy=64000000.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 0.0230775s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.54e-06s
+[VE] ADMIT V size=64000000.000000
+[VE] PASS-END occupancy=64000000.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols) for V: 0.0640531s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 8.69e-07s
+[VE] ADMIT V size=64000000.000000
+[VE] PASS-END occupancy=64000000.000000/1000000000.000000 cached=1
+[VE] HIT  V size=64000000.000000 occupancy=64000000.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 0.0219866s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.697e-06s
+[VE] ADMIT V size=64000000.000000
+[VE] PASS-END occupancy=64000000.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols) for V: 0.0639184s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.037e-06s
+[VE] ADMIT V size=64000000.000000
+[VE] PASS-END occupancy=64000000.000000/1000000000.000000 cached=1
+[VE] HIT  V size=64000000.000000 occupancy=64000000.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 0.0214745s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.109e-06s
+[VE] ADMIT V size=64000000.000000
+[VE] PASS-END occupancy=64000000.000000/1000000000.000000 cached=1
+[VE] MISS V size=0.000000 occupancy=0.000000/1000000000.000000 -- recomputing view definition
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols) for V: 0.0639934s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 7.74e-07s
+[VE] ADMIT V size=64000000.000000
+[VE] PASS-END occupancy=64000000.000000/1000000000.000000 cached=1
+[VE] HIT  V size=64000000.000000 occupancy=64000000.000000/1000000000.000000
+[ACE-TIME] Borrowed(V) BOSS literal -> Arrow rebuild: 0.0216508s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols): 1.136e-06s
+[VE] ADMIT V size=64000000.000000
+[VE] PASS-END occupancy=64000000.000000/1000000000.000000 cached=1
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 2 cols): 2.44e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 5 cols): 0.0153747s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 2 cols): 2.441e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 2 cols): 2.616e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 499999 rows x 2 cols): 7.242e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 499999 rows x 5 cols): 0.00764396s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4 rows x 2 cols): 1.094e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 2 cols): 6.997e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 3 cols): 8.117e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 2 cols): 0.0153586s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 4 cols): 1.179e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols): 8.972e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 499999 rows x 2 cols): 6.612e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 499999 rows x 5 cols): 0.00768681s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4 rows x 2 cols): 1.037e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 2 cols): 6.817e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 3 cols): 8.575e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 2 cols): 0.0166201s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 4 cols): 1.4935e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols): 8.67e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 499999 rows x 2 cols): 6.787e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 499999 rows x 5 cols): 0.00781668s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4 rows x 2 cols): 7.86e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 2 cols): 5.871e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 3 cols): 7.534e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 2 cols): 0.0153988s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 4 cols): 1.1841e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols): 3.161e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 499999 rows x 2 cols): 7.477e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 499999 rows x 5 cols): 0.00768957s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4 rows x 2 cols): 8.35e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 2 cols): 6.706e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 3 cols): 7.574e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 2 cols): 0.016535s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 4 cols): 1.1863e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols): 8.901e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 499999 rows x 2 cols): 6.879e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 499999 rows x 5 cols): 0.00766758s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4 rows x 2 cols): 8.26e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 2 cols): 6.53e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 3 cols): 7.237e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 2 cols): 0.0153339s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 4 cols): 1.1977e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols): 8.539e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 2 cols): 2.641e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 5 cols): 0.0847594s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 2 cols): 2.243e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 2 cols): 2.57e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1999999 rows x 2 cols): 1.5451e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1999999 rows x 5 cols): 0.0307327s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4 rows x 2 cols): 1.429e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 2 cols): 1.5228e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 3 cols): 1.9424e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 2 cols): 0.0614286s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 4 cols): 3.2049e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols): 1.0115e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1999999 rows x 2 cols): 1.6992e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1999999 rows x 5 cols): 0.0332853s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4 rows x 2 cols): 1.528e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 2 cols): 1.5214e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 3 cols): 1.9821e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 2 cols): 0.0616775s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 4 cols): 3.0015e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols): 8.912e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1999999 rows x 2 cols): 1.5917e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1999999 rows x 5 cols): 0.0305967s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4 rows x 2 cols): 1.362e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 2 cols): 1.4261e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 3 cols): 1.9724e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 2 cols): 0.0611982s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 4 cols): 2.904e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols): 9.952e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1999999 rows x 2 cols): 1.5287e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1999999 rows x 5 cols): 0.0306509s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4 rows x 2 cols): 1.126e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 2 cols): 1.7017e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 3 cols): 2.0416e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 2 cols): 0.0618541s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 4 cols): 2.9931e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols): 8.957e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1999999 rows x 2 cols): 1.5139e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1999999 rows x 5 cols): 0.0324544s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4 rows x 2 cols): 1.635e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 2 cols): 1.6649e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 3 cols): 1.9675e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 2 cols): 0.0616652s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 4 cols): 3.0288e-05s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols): 9.489e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 10000 rows x 2 cols): 2.189e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 10000 rows x 2 cols): 6.4e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 10000 rows x 2 cols): 3.74e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 10000 rows x 2 cols): 3.85e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 10000 rows x 2 cols): 3.6e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 10000 rows x 2 cols): 2.93e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 40000 rows x 2 cols): 1.267e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 40000 rows x 2 cols): 2.26e-06s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 40000 rows x 2 cols): 7.05e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 40000 rows x 2 cols): 6.82e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 40000 rows x 2 cols): 5.42e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 40000 rows x 2 cols): 5.96e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 9.8e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 5.8e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 4.04e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 3.19e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 2.53e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 2.24e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 3.53e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 3.12e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 2.45e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 2.52e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 2.33e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 3.28e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 3.55e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 2.71e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 2.85e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 2.78e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 4.11e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 4.11e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 2.97e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 3.28e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 3.5e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 4.25e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 3.64e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 3.48e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 3.15e-07s
+[ACE-TIME] boxing loop (Arrow Table -> boss::Expression, 1000 rows x 1 cols): 3.13e-07s

@@ -1,0 +1,256 @@
+measurement,type,rows,rep,ok,seconds,result_rows,t_ms,note
+pipeline,int64,1,1,true,0.000045,0,1788810590917,
+pipeline,int64,1,2,true,0.000049,0,1788810590917,
+pipeline,int64,1,3,true,0.000051,0,1788810590917,
+pipeline,int64,1,4,true,0.000047,0,1788810590918,
+pipeline,int64,1,5,true,0.000045,0,1788810590918,
+pipeline,int64,1,6,true,0.000046,0,1788810590918,
+pipeline,int64,1,7,true,0.000045,0,1788810590918,
+pipeline,int64,1,8,true,0.000045,0,1788810590918,
+pipeline,int64,1,9,true,0.000047,0,1788810590918,
+pipeline,int64,1,10,true,0.000047,0,1788810590918,
+pipeline,int64,1,11,true,0.000045,0,1788810590918,
+pipeline,int64,1,12,true,0.000045,0,1788810590918,
+pipeline,int64,1,13,true,0.000046,0,1788810590918,
+pipeline,int64,1,14,true,0.000045,0,1788810590918,
+pipeline,int64,1,15,true,0.000044,0,1788810590918,
+pipeline,int64,1,16,true,0.000045,0,1788810590918,
+pipeline,int64,1,17,true,0.000045,0,1788810590918,
+pipeline,int64,1,18,true,0.000044,0,1788810590918,
+pipeline,int64,1,19,true,0.000045,0,1788810590918,
+pipeline,int64,1,20,true,0.000046,0,1788810590918,
+miss,int64,1,1,true,0.000153,0,1788810590919,
+rebox_engine,int64,1,1,true,0.000000,1,1788810590919,"boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols) for V"
+hit,int64,1,1,true,0.000088,0,1788810590919,
+unbox_engine,int64,1,1,true,0.000005,1,1788810590919,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,int64,1,2,true,0.000115,0,1788810590919,
+rebox_engine,int64,1,2,true,0.000000,1,1788810590919,"boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols) for V"
+hit,int64,1,2,true,0.000067,0,1788810590919,
+unbox_engine,int64,1,2,true,0.000002,1,1788810590919,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,int64,1,3,true,0.000097,0,1788810590919,
+rebox_engine,int64,1,3,true,0.000000,1,1788810590919,"boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols) for V"
+hit,int64,1,3,true,0.000063,0,1788810590919,
+unbox_engine,int64,1,3,true,0.000001,1,1788810590919,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,int64,1,4,true,0.000093,0,1788810590919,
+rebox_engine,int64,1,4,true,0.000000,1,1788810590919,"boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols) for V"
+hit,int64,1,4,true,0.000069,0,1788810590920,
+unbox_engine,int64,1,4,true,0.000001,1,1788810590920,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,int64,1,5,true,0.000093,0,1788810590920,
+rebox_engine,int64,1,5,true,0.000000,1,1788810590920,"boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols) for V"
+hit,int64,1,5,true,0.000061,0,1788810590920,
+unbox_engine,int64,1,5,true,0.000001,1,1788810590920,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,int64,1000000,1,true,0.000290,0,1788810590961,
+rebox_engine,int64,1000000,1,true,0.000005,1000000,1788810590961,"boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols) for V"
+hit,int64,1000000,1,true,0.000145,0,1788810590961,
+unbox_engine,int64,1000000,1,true,0.000007,1000000,1788810590961,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,int64,1000000,2,true,0.000192,0,1788810590961,
+rebox_engine,int64,1000000,2,true,0.000003,1000000,1788810590961,"boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols) for V"
+hit,int64,1000000,2,true,0.000114,0,1788810590961,
+unbox_engine,int64,1000000,2,true,0.000005,1000000,1788810590961,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,int64,1000000,3,true,0.000200,0,1788810590961,
+rebox_engine,int64,1000000,3,true,0.000003,1000000,1788810590961,"boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols) for V"
+hit,int64,1000000,3,true,0.000124,0,1788810590962,
+unbox_engine,int64,1000000,3,true,0.000006,1000000,1788810590962,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,int64,1000000,4,true,0.000170,0,1788810590962,
+rebox_engine,int64,1000000,4,true,0.000003,1000000,1788810590962,"boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols) for V"
+hit,int64,1000000,4,true,0.000114,0,1788810590962,
+unbox_engine,int64,1000000,4,true,0.000006,1000000,1788810590962,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,int64,1000000,5,true,0.000165,0,1788810590962,
+rebox_engine,int64,1000000,5,true,0.000003,1000000,1788810590962,"boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols) for V"
+hit,int64,1000000,5,true,0.000113,0,1788810590962,
+unbox_engine,int64,1000000,5,true,0.000006,1000000,1788810590962,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,int64,4000000,1,true,0.000491,0,1788810591104,
+rebox_engine,int64,4000000,1,true,0.000012,4000000,1788810591104,"boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols) for V"
+hit,int64,4000000,1,true,0.000290,0,1788810591104,
+unbox_engine,int64,4000000,1,true,0.000019,4000000,1788810591104,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,int64,4000000,2,true,0.000375,0,1788810591104,
+rebox_engine,int64,4000000,2,true,0.000008,4000000,1788810591104,"boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols) for V"
+hit,int64,4000000,2,true,0.000246,0,1788810591105,
+unbox_engine,int64,4000000,2,true,0.000017,4000000,1788810591105,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,int64,4000000,3,true,0.000353,0,1788810591105,
+rebox_engine,int64,4000000,3,true,0.000008,4000000,1788810591105,"boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols) for V"
+hit,int64,4000000,3,true,0.000239,0,1788810591105,
+unbox_engine,int64,4000000,3,true,0.000017,4000000,1788810591105,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,int64,4000000,4,true,0.000368,0,1788810591106,
+rebox_engine,int64,4000000,4,true,0.000008,4000000,1788810591106,"boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols) for V"
+hit,int64,4000000,4,true,0.000248,0,1788810591106,
+unbox_engine,int64,4000000,4,true,0.000017,4000000,1788810591106,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,int64,4000000,5,true,0.000347,0,1788810591106,
+rebox_engine,int64,4000000,5,true,0.000008,4000000,1788810591106,"boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols) for V"
+hit,int64,4000000,5,true,0.000243,0,1788810591107,
+unbox_engine,int64,4000000,5,true,0.000017,4000000,1788810591107,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,string,1,1,true,0.000142,0,1788810591108,
+rebox_engine,string,1,1,true,0.000001,1,1788810591108,"boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols) for V"
+hit,string,1,1,true,0.000074,0,1788810591108,
+unbox_engine,string,1,1,true,0.000003,1,1788810591108,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,string,1,2,true,0.000103,0,1788810591108,
+rebox_engine,string,1,2,true,0.000000,1,1788810591108,"boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols) for V"
+hit,string,1,2,true,0.000064,0,1788810591108,
+unbox_engine,string,1,2,true,0.000002,1,1788810591108,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,string,1,3,true,0.000098,0,1788810591108,
+rebox_engine,string,1,3,true,0.000000,1,1788810591108,"boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols) for V"
+hit,string,1,3,true,0.000065,0,1788810591109,
+unbox_engine,string,1,3,true,0.000002,1,1788810591109,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,string,1,4,true,0.000093,0,1788810591109,
+rebox_engine,string,1,4,true,0.000000,1,1788810591109,"boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols) for V"
+hit,string,1,4,true,0.000060,0,1788810591109,
+unbox_engine,string,1,4,true,0.000002,1,1788810591109,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,string,1,5,true,0.000094,0,1788810591109,
+rebox_engine,string,1,5,true,0.000000,1,1788810591109,"boxing loop (Arrow Table -> boss::Expression, 1 rows x 1 cols) for V"
+hit,string,1,5,true,0.000060,0,1788810591109,
+unbox_engine,string,1,5,true,0.000002,1,1788810591109,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,string,1000000,1,true,0.022468,0,1788810591230,
+rebox_engine,string,1000000,1,true,0.022058,1000000,1788810591230,"boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols) for V"
+hit,string,1000000,1,true,0.007557,0,1788810591237,
+unbox_engine,string,1000000,1,true,0.007364,1000000,1788810591237,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,string,1000000,2,true,0.016359,0,1788810591266,
+rebox_engine,string,1000000,2,true,0.016067,1000000,1788810591266,"boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols) for V"
+hit,string,1000000,2,true,0.005781,0,1788810591272,
+unbox_engine,string,1000000,2,true,0.005619,1000000,1788810591272,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,string,1000000,3,true,0.016341,0,1788810591300,
+rebox_engine,string,1000000,3,true,0.016058,1000000,1788810591300,"boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols) for V"
+hit,string,1000000,3,true,0.005945,0,1788810591306,
+unbox_engine,string,1000000,3,true,0.005788,1000000,1788810591306,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,string,1000000,4,true,0.016215,0,1788810591334,
+rebox_engine,string,1000000,4,true,0.015918,1000000,1788810591335,"boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols) for V"
+hit,string,1000000,4,true,0.005848,0,1788810591340,
+unbox_engine,string,1000000,4,true,0.005686,1000000,1788810591340,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,string,1000000,5,true,0.016280,0,1788810591369,
+rebox_engine,string,1000000,5,true,0.015988,1000000,1788810591369,"boxing loop (Arrow Table -> boss::Expression, 1000000 rows x 1 cols) for V"
+hit,string,1000000,5,true,0.005828,0,1788810591375,
+unbox_engine,string,1000000,5,true,0.005661,1000000,1788810591375,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,string,4000000,1,true,0.076771,0,1788810591825,
+rebox_engine,string,4000000,1,true,0.076097,4000000,1788810591825,"boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols) for V"
+hit,string,4000000,1,true,0.024543,0,1788810591849,
+unbox_engine,string,4000000,1,true,0.024252,4000000,1788810591850,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,string,4000000,2,true,0.065606,0,1788810591963,
+rebox_engine,string,4000000,2,true,0.064990,4000000,1788810591963,"boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols) for V"
+hit,string,4000000,2,true,0.023363,0,1788810591987,
+unbox_engine,string,4000000,2,true,0.023078,4000000,1788810591987,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,string,4000000,3,true,0.064644,0,1788810592102,
+rebox_engine,string,4000000,3,true,0.064053,4000000,1788810592102,"boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols) for V"
+hit,string,4000000,3,true,0.022257,0,1788810592125,
+unbox_engine,string,4000000,3,true,0.021987,4000000,1788810592125,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,string,4000000,4,true,0.064506,0,1788810592238,
+rebox_engine,string,4000000,4,true,0.063918,4000000,1788810592238,"boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols) for V"
+hit,string,4000000,4,true,0.021737,0,1788810592259,
+unbox_engine,string,4000000,4,true,0.021475,4000000,1788810592259,Borrowed(V) BOSS literal -> Arrow rebuild
+miss,string,4000000,5,true,0.064570,0,1788810592372,
+rebox_engine,string,4000000,5,true,0.063993,4000000,1788810592372,"boxing loop (Arrow Table -> boss::Expression, 4000000 rows x 1 cols) for V"
+hit,string,4000000,5,true,0.021913,0,1788810592394,
+unbox_engine,string,4000000,5,true,0.021651,4000000,1788810592394,Borrowed(V) BOSS literal -> Arrow rebuild
+filter,int64,1000000,1,true,0.001305,0,1788810592866,
+filter_wide,int64,1000000,1,true,0.012645,0,1788810592885,
+groupby,int64,1000000,1,true,0.002169,0,1788810592887,
+groupby_hi,int64,1000000,1,true,0.048680,0,1788810592936,
+groupby_hi2,int64,1000000,1,true,0.048220,0,1788810592984,
+groupby_str,string,1000000,1,true,0.073981,0,1788810593070,
+join,int64,1000000,1,true,0.070521,0,1788810593140,
+project,int64,1000000,1,true,0.000138,0,1788810593140,
+filter,int64,1000000,2,true,0.001204,0,1788810593142,
+filter_wide,int64,1000000,2,true,0.010793,0,1788810593158,
+groupby,int64,1000000,2,true,0.002151,0,1788810593160,
+groupby_hi,int64,1000000,2,true,0.037915,0,1788810593198,
+groupby_hi2,int64,1000000,2,true,0.047146,0,1788810593246,
+groupby_str,string,1000000,2,true,0.076445,0,1788810593335,
+join,int64,1000000,2,true,0.070970,0,1788810593406,
+project,int64,1000000,2,true,0.000151,0,1788810593406,
+filter,int64,1000000,3,true,0.001196,0,1788810593407,
+filter_wide,int64,1000000,3,true,0.010900,0,1788810593424,
+groupby,int64,1000000,3,true,0.002142,0,1788810593426,
+groupby_hi,int64,1000000,3,true,0.037711,0,1788810593464,
+groupby_hi2,int64,1000000,3,true,0.046886,0,1788810593511,
+groupby_str,string,1000000,3,true,0.069781,0,1788810593592,
+join,int64,1000000,3,true,0.070360,0,1788810593663,
+project,int64,1000000,3,true,0.000147,0,1788810593663,
+filter,int64,1000000,4,true,0.001169,0,1788810593664,
+filter_wide,int64,1000000,4,true,0.010774,0,1788810593681,
+groupby,int64,1000000,4,true,0.002137,0,1788810593683,
+groupby_hi,int64,1000000,4,true,0.037465,0,1788810593720,
+groupby_hi2,int64,1000000,4,true,0.046728,0,1788810593767,
+groupby_str,string,1000000,4,true,0.071481,0,1788810593852,
+join,int64,1000000,4,true,0.073365,0,1788810593925,
+project,int64,1000000,4,true,0.000152,0,1788810593925,
+filter,int64,1000000,5,true,0.001186,0,1788810593926,
+filter_wide,int64,1000000,5,true,0.010713,0,1788810593943,
+groupby,int64,1000000,5,true,0.002128,0,1788810593945,
+groupby_hi,int64,1000000,5,true,0.037791,0,1788810593983,
+groupby_hi2,int64,1000000,5,true,0.046875,0,1788810594030,
+groupby_str,string,1000000,5,true,0.069773,0,1788810594112,
+join,int64,1000000,5,true,0.070272,0,1788810594182,
+project,int64,1000000,5,true,0.000138,0,1788810594182,
+filter,int64,4000000,1,true,0.005446,0,1788810595772,
+filter_wide,int64,4000000,1,true,0.051124,0,1788810595847,
+groupby,int64,4000000,1,true,0.007750,0,1788810595855,
+groupby_hi,int64,4000000,1,true,0.230388,0,1788810596085,
+groupby_hi2,int64,4000000,1,true,0.218216,0,1788810596303,
+groupby_str,string,4000000,1,true,0.342273,0,1788810596693,
+join,int64,4000000,1,true,0.305526,0,1788810596999,
+project,int64,4000000,1,true,0.000249,0,1788810596999,
+filter,int64,4000000,2,true,0.004423,0,1788810597003,
+filter_wide,int64,4000000,2,true,0.046666,0,1788810597075,
+groupby,int64,4000000,2,true,0.007885,0,1788810597083,
+groupby_hi,int64,4000000,2,true,0.176711,0,1788810597260,
+groupby_hi2,int64,4000000,2,true,0.207248,0,1788810597467,
+groupby_str,string,4000000,2,true,0.319868,0,1788810597835,
+join,int64,4000000,2,true,0.307066,0,1788810598142,
+project,int64,4000000,2,true,0.000242,0,1788810598142,
+filter,int64,4000000,3,true,0.004209,0,1788810598146,
+filter_wide,int64,4000000,3,true,0.042880,0,1788810598213,
+groupby,int64,4000000,3,true,0.007699,0,1788810598221,
+groupby_hi,int64,4000000,3,true,0.176606,0,1788810598397,
+groupby_hi2,int64,4000000,3,true,0.208062,0,1788810598605,
+groupby_str,string,4000000,3,true,0.318263,0,1788810598972,
+join,int64,4000000,3,true,0.297593,0,1788810599269,
+project,int64,4000000,3,true,0.000250,0,1788810599270,
+filter,int64,4000000,4,true,0.004179,0,1788810599274,
+filter_wide,int64,4000000,4,true,0.042856,0,1788810599341,
+groupby,int64,4000000,4,true,0.007709,0,1788810599349,
+groupby_hi,int64,4000000,4,true,0.177127,0,1788810599526,
+groupby_hi2,int64,4000000,4,true,0.208571,0,1788810599734,
+groupby_str,string,4000000,4,true,0.321370,0,1788810600104,
+join,int64,4000000,4,true,0.298567,0,1788810600402,
+project,int64,4000000,4,true,0.000275,0,1788810600403,
+filter,int64,4000000,5,true,0.004241,0,1788810600407,
+filter_wide,int64,4000000,5,true,0.044938,0,1788810600477,
+groupby,int64,4000000,5,true,0.008173,0,1788810600485,
+groupby_hi,int64,4000000,5,true,0.177105,0,1788810600662,
+groupby_hi2,int64,4000000,5,true,0.206725,0,1788810600869,
+groupby_str,string,4000000,5,true,0.318928,0,1788810601235,
+join,int64,4000000,5,true,0.298221,0,1788810601534,
+project,int64,4000000,5,true,0.000254,0,1788810601534,
+orderby,int64,10000,1,true,0.000404,0,1788810601555,
+orderby,int64,10000,2,true,0.000294,0,1788810601555,
+orderby,int64,10000,3,true,0.000280,0,1788810601555,
+orderby,int64,10000,4,true,0.000282,0,1788810601555,
+orderby,int64,10000,5,true,0.000287,0,1788810601556,
+orderby,int64,40000,1,true,0.002129,0,1788810601561,
+orderby,int64,40000,2,true,0.001448,0,1788810601562,
+orderby,int64,40000,3,true,0.001374,0,1788810601564,
+orderby,int64,40000,4,true,0.001388,0,1788810601565,
+orderby,int64,40000,5,true,0.001355,0,1788810601566,
+scan,views,0,1,true,0.000122,0,1788810601567,
+scan,views,0,2,true,0.000068,0,1788810601567,
+scan,views,0,3,true,0.000058,0,1788810601567,
+scan,views,0,4,true,0.000053,0,1788810601567,
+scan,views,0,5,true,0.000051,0,1788810601567,
+scan,views,50,1,true,0.000070,0,1788810601568,
+scan,views,50,2,true,0.000070,0,1788810601568,
+scan,views,50,3,true,0.000062,0,1788810601568,
+scan,views,50,4,true,0.000061,0,1788810601568,
+scan,views,50,5,true,0.000059,0,1788810601568,
+scan,views,100,1,true,0.000084,0,1788810601568,
+scan,views,100,2,true,0.000101,0,1788810601569,
+scan,views,100,3,true,0.000077,0,1788810601569,
+scan,views,100,4,true,0.000079,0,1788810601569,
+scan,views,100,5,true,0.000075,0,1788810601569,
+scan,views,200,1,true,0.000132,0,1788810601570,
+scan,views,200,2,true,0.000114,0,1788810601570,
+scan,views,200,3,true,0.000106,0,1788810601570,
+scan,views,200,4,true,0.000097,0,1788810601570,
+scan,views,200,5,true,0.000098,0,1788810601570,
+scan,views,400,1,true,0.000153,0,1788810601571,
+scan,views,400,2,true,0.000187,0,1788810601572,
+scan,views,400,3,true,0.000147,0,1788810601572,
+scan,views,400,4,true,0.000149,0,1788810601572,
+scan,views,400,5,true,0.000142,0,1788810601572,

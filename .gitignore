@@ -1,0 +1,7 @@
+/systems/
+/build/
+/.cache/
+/generated/
+/results/*.md
+/compile_commands.json
+__pycache__/
