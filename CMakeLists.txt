@@ -25,7 +25,7 @@ set(TPCH_DATA_DIR "/mnt/data/tpch/sf1" CACHE STRING "directory holding the TPC-H
 
 # The dbgen build the stream experiments shell out to for query parameters. Nothing here builds
 # it, so it stays a path.
-set(DBGEN_DIR "/mnt/apps/lazy-loading/BOSSKernelBenchmarks/dbgen"
+set(DBGEN_DIR "/mnt/apps/projects/lazy-transformations/BOSSKernelBenchmarks/dbgen"
     CACHE STRING "TPC-H dbgen directory, for the qgen binary")
 
 find_package(Threads REQUIRED)
