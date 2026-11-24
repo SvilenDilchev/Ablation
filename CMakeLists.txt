@@ -21,7 +21,7 @@ endif()
 
 # Where the TPC-H .tbl files live. Both BOSS and the SQL systems read from here, so it is set
 # once and handed to both.
-set(TPCH_DATA_DIR "/mnt/data/tpch/sf1" CACHE STRING "directory holding the TPC-H .tbl files")
+set(TPCH_DATA_DIR "/mnt/data/projects/lazy-transformations/tpch/sf1" CACHE STRING "directory holding the TPC-H .tbl files")
 
 # The dbgen build the stream experiments shell out to for query parameters. Nothing here builds
 # it, so it stays a path.
